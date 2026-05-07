@@ -1,1 +1,2 @@
 # Roblox-Game-Scripts
+Football Kicking Simulator is a Roblox game where players kick a ball, score goals, and earn in-game cash to progress through a 104-item cosmetic shop across four gear categories. The game features a full client/server architecture with DataStore-backed player persistence, six gamepasses, developer product monetization, and a rebirth prestige system — all built in Luau from scratch.
